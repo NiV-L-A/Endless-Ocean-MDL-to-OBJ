@@ -1,15 +1,6 @@
 ## INFO ##
 
-Endless Ocean 1 & 2 .mdl to .obj Exporter
-Authors: NiV & MDB
-Special thanks to Hiroshi
-Current version: 0.6
-*If you have any issues, join this discord server and contact NiV-L-A: https://discord.gg/4hmcsmPMDG - Endless Ocean Wiki Server
-
-
-## Description ##
-Straight-forward C# code that converts a .mdl from the Endless Ocean serie into multiple .obj. Each .obj equals to a mesh.
-No known bugs.
+Endless Ocean 1 & 2 .mdl to .obj Exporter written in C# by NiV, with the help of MDB & Hiroshi. Each mesh equals to a .obj. There're no known bugs. This is version 0.6, remember that if you have any issues, join this discord server and contact me (NiV-L-A): https://discord.gg/4hmcsmPMDG - Endless Ocean Wiki Server
 
 ## How to run ##
 Download the executable, drag and drop the .mdl onto the .exe. It supports multiple .mdl as the input argument, don't abuse it tho, it will make it mad.

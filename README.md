@@ -15,5 +15,6 @@ No known bugs.
 Download the executable, drag and drop the .mdl onto the .exe. It supports multiple .mdl as the input argument, don't abuse it tho, it will make it mad.
 
 ## TO DO: ##
-- Add an actual command-line interaction. Could be a cool idea to print on the console at which mesh the script is currently at, instead of the data being logged.
+- Add an actual command-line interaction. User could choose optional output folder.
+	- Could be a cool idea to print on the console at which mesh the script is currently at, instead of the data being logged.
 - Optimize some stuff.

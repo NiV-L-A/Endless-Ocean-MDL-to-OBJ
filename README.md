@@ -8,5 +8,5 @@ Download the executable, drag and drop the .mdl onto the .exe. It supports multi
 ## TO DO: ##
 - Add an actual command-line interaction. User could choose optional output folder.
 	- Could be a cool idea to print on the console at which mesh the script is currently at, instead of the data being logged.
-- In stages files, some chunks are rendered but loaded at 0,0,0. Found a way to locate them at the correct position.
+- In stages files, some chunks are rendered but loaded at 0,0,0. Found a way to locate them at the correct position. Maybe look at the INFO?
 - Optimize some stuff.
